@@ -1,0 +1,7 @@
+﻿Thời tiết, Sức khỏe, Bạn bè có tham gia, nhiệt độ, Đi chơi hay không
+nắng', tốt, có tham gia, nóng, không đi chơi
+nắng, tốt, có tham gia, mát mẻ, đi chơi
+mưa, xấu, không tham gia, lạnh, không đi chơi
+mưa, xấu, có tham gia, mát mẻ, không đi chơi
+mưa, tốt, không tham gia, lạnh, không đi chơi
+nắng, xấu, có tham gia, nóng, đi chơi
